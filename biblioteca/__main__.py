@@ -1,0 +1,3 @@
+import sistemaBiblioteca
+
+sistemaBiblioteca.main()
